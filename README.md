@@ -9,7 +9,6 @@ This project is Task 03 of my Web Development Internship at Prodigy InfoTech. It
 - [Game Modes](#game-modes)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
